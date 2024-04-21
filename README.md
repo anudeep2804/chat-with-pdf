@@ -34,3 +34,7 @@ OpenAI's GPT-4 is a state-of-the-art language model capable of understanding and
 
    streamlit run app.py
 
+
+   ![Screenshot 2024-04-21 at 5 08 28 PM](https://github.com/anudeep2804/chat-with-pdf/assets/68229062/f60cb721-b962-4de8-8bfa-c9ea3dd929ea)
+
+
